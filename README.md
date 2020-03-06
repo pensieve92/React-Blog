@@ -9,5 +9,8 @@
 ### npm -v
 *6.9.0*
 
+### create-react-app -V
+*3.4.0*
+
 ### mongo --version
 *MongoDB shell version v4.2.3*
